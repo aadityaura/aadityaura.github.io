@@ -27,6 +27,8 @@ I have a deep appreciation for open-source work and contribute to projects inclu
 
 If you are still reading, here is more about me: Apart from my research life, I'm drawn to activities like Boxing, Jiu-Jitsu and Chess. I enjoy spending time in nature, Observation, and Philosophy. I have realized to some extent that everything is connected; there is neither good nor bad; there is neither positive nor negative. I often displace myself away from social noise, take a seat, and try to see, observe, rather than just looking at it. In the process, I naturally learn.
 
+Note: I am looking for a funded PhD opportunity, especially if it fits my Responsible Generative AI, Multimodal LLMs, Geometric Deep Learning, and Healthcare AI skillset.
+
 <!-- I was also privileged to serve as a reviewer for journals [Springer Nature 2021](https://www.webofscience.com/wos/author/record/AAA-9381-2021), [IEEE Access 2021](https://www.webofscience.com/wos/author/record/AAA-9381-2021) and [IEEE Access 2022](https://www.webofscience.com/wos/author/record/AAA-9381-2021). -->
 
 <!--
